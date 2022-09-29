@@ -613,5 +613,3 @@ cont3.onclick = function(){
         del.style.background =  'hsl(185, 42%, 37%)';
     }
 }
-
-
